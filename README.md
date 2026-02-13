@@ -1,2 +1,9 @@
 # bertoti
 Engenharia de Software
+
+Atividade 1
+
+  Os termos engenheiros de software e programadores sempre foram usados de forma parecida, para designar as mesmas coisas, porem, o termo engenheiro de sofware passa a visão de algo mais sério, pois remete aos temos utilizados em outras areas de engenharia, dando um peso e um tom mais sério para a palavra e para a função, porem, diferente de outras engenharias, que produzem materiais e projetos mais físicos, a engenharia de software é menos rigorosa com regras, pois a maioria das engenharias estão envolvidas com projetos críticos como construção de aeronaves, casas, prédios, pontes, plantas de empresas, e coisas do tipo, porém, engenharia de software não se trata de nada crítico, pois não causa dano real às pessoas.
+
+Atividade 2
+
