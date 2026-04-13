@@ -1,0 +1,8 @@
+Requisitos não funcionais
+
+Requisitos não funcionais determinam como um sistema deve funcionar, focando em atributos de qualidade como desempenho segurança, usabilidade e confiabilidade em vez de tarefas específicas.
+
+1-Desempenho:
+  O desempenho de um sistema dita seu tempo de resposta e o quão flúido ele vai ser
+2-Segurança:
+  Trata da proteção dos dados e da integridade do sistema contra acessos não autorizados.
