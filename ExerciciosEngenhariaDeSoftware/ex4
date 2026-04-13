@@ -6,3 +6,9 @@ Requisitos não funcionais determinam como um sistema deve funcionar, focando em
   O desempenho de um sistema dita seu tempo de resposta e o quão flúido ele vai ser
 2-Segurança:
   Trata da proteção dos dados e da integridade do sistema contra acessos não autorizados.
+3-Escalabilidade:
+  É a capacidade do sistema de lidar com o crescimento, seja no volume de dados ou no número de usuários, sem perder qualidade.
+4-Disponibilidade:
+  Define o tempo que o sistema fica "em pé" e pronto para ser usado.
+5-Usabilidade
+  Foca na facilidade com que o usuário consegue aprender e operar o sistema. 
